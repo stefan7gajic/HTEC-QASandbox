@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94812" started-at="2021-10-18T04:49:48 CEST" finished-at="2021-10-18T04:51:22 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94812" started-at="2021-10-18T04:49:48 CEST" finished-at="2021-10-18T04:51:22 CEST">
+      <class name="qaSandbox.test.UseCaseTest">
+        <test-method status="PASS" signature="openBrowserAndLogin()[pri:0, instance:qaSandbox.test.UseCaseTest@48503868]" name="openBrowserAndLogin" is-config="true" duration-ms="7449" started-at="2021-10-18T04:49:48 CEST" finished-at="2021-10-18T04:49:55 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserAndLogin -->
+        <test-method status="PASS" signature="testPage()[pri:0, instance:qaSandbox.test.UseCaseTest@48503868]" name="testPage" is-config="true" duration-ms="4" started-at="2021-10-18T04:49:55 CEST" finished-at="2021-10-18T04:49:55 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPage -->
+        <test-method status="PASS" signature="add5Tests()[pri:1, instance:qaSandbox.test.UseCaseTest@48503868]" name="add5Tests" duration-ms="45087" started-at="2021-10-18T04:49:55 CEST" finished-at="2021-10-18T04:50:40 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add5Tests -->
+        <test-method status="PASS" signature="testPage()[pri:0, instance:qaSandbox.test.UseCaseTest@48503868]" name="testPage" is-config="true" duration-ms="5" started-at="2021-10-18T04:50:40 CEST" finished-at="2021-10-18T04:50:40 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPage -->
+        <test-method status="PASS" signature="addTestWithSameTitle()[pri:2, instance:qaSandbox.test.UseCaseTest@48503868]" name="addTestWithSameTitle" duration-ms="11424" started-at="2021-10-18T04:50:40 CEST" finished-at="2021-10-18T04:50:52 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestWithSameTitle -->
+        <test-method status="PASS" signature="testPage()[pri:0, instance:qaSandbox.test.UseCaseTest@48503868]" name="testPage" is-config="true" duration-ms="19" started-at="2021-10-18T04:50:52 CEST" finished-at="2021-10-18T04:50:52 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPage -->
+        <test-method status="PASS" signature="deleteCreatedTests()[pri:3, instance:qaSandbox.test.UseCaseTest@48503868]" name="deleteCreatedTests" duration-ms="29819" started-at="2021-10-18T04:50:52 CEST" finished-at="2021-10-18T04:51:21 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCreatedTests -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:qaSandbox.test.UseCaseTest@48503868]" name="closeBrowser" is-config="true" duration-ms="848" started-at="2021-10-18T04:51:21 CEST" finished-at="2021-10-18T04:51:22 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- qaSandbox.test.UseCaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
